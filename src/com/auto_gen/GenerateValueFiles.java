@@ -4,7 +4,10 @@ import java.io.FileOutputStream;
 import java.io.PrintWriter;
 
 /**
- * hello
+
+ * hello1
+ * sdfsdf2
+
  * 生成对应分辨率下的lay_x lay_y文件目录，执行完毕后，刷新工程后，生成一个res
  * 
  * 处理方式：根据当前的原型设备的分辨率的宽高像素值，按照“比例关系”对用生成不同分辨率的宽高值
