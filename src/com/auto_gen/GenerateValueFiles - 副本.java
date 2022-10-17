@@ -9,7 +9,7 @@ import java.io.PrintWriter;
  * 
  * 处理方式：根据当前的原型设备的分辨率的宽高像素值，按照“比例关系”对用生成不同分辨率的宽高值
  * 比例关系：原型的宽/其他分辨率的宽， 原型的高/其他分辨率的高     
- * by 20170102 111
+ * by 20170102 111 123 344
  */
 public class GenerateValueFiles {
 
